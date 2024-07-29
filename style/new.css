@@ -1,0 +1,29 @@
+footer{
+    text-align: center;
+    margin-top: 40px;
+}
+.nav{
+    text-align: right;
+    /* margin-right:50px ; */
+}
+a{
+    margin-right: 50px;
+    text-decoration: none;
+}
+video{
+    margin-right: 100px;
+}
+audio{
+    margin-left: 100px;
+}
+.head{
+    text-align: center;
+}
+#date{
+    text-align:right;
+}
+label{
+    display: block;
+    margin:10px 0px ;
+    
+}
